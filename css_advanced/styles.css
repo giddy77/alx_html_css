@@ -198,7 +198,10 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
+.faqs{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
 .faqs h1{
     justify-content: center;
     text-align: center;
